@@ -4,7 +4,7 @@
 
 <h3> Currency Migration Sierra Leone</h3>   
 <h6>Date : 1<sup>st</sup> July 2022 </h6>
-Requirment - The Governor of the Central Bank of Sierra Leone, announced  Redenominate of currency by the removal of three last zeros from the face value of the currency.
+Requirment - The Governor of the Central Bank of Sierra Leone, announced  Redenominate of currency by the removal of three last zeros from the face value of the currency. <br>
 My Role - Fetch out all the impacted i-net crons reports , made deployement smooth without any loss of DATA.
 <hr>
 
