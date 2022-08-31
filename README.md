@@ -1,11 +1,11 @@
-# Projects by Anupam Jain
-
-
+# Projects by Anupam Jain ❤
+<hr>
+<hr>
 
 <h3> 1.Currency Migration Sierra Leone</h3>
 Requirment - The Governor of the Central Bank of Sierra Leone, announced  Redenominate of currency by the removal of three last zeros from the face value of the currency.
 My Role - Fetch out all the impacted i-net crons reports , made deployement smooth without any loss of DATA.
-
+<hr>
 <h3> 2.Brazil Contract Purchase Report</h3>
 Developed a complex Cognos report that shows the contracts purchased during the year, performance tuning.
 Tool - IBM Cognos Report studio , Fram Work Manager
