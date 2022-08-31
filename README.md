@@ -1,7 +1,8 @@
 # Projects by Anupam Jain
 
 
-Currency redomination changes Sierra Leone
+
+<h3>Currency redomination changes Sierra Leone</h3>
 The Governor of the Central Bank of Sierra Leone, announced  Redenominate of currency by the removal of three last zeros from the face value of the currency.
 My Role - Fetch out all the impacted reports , made deployement smooth without any loss of DATA.
 
